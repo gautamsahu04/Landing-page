@@ -1,0 +1,1 @@
+This project is a landing page built using HTML, CSS, and JavaScript. It features animations that enhance the user experience, utilizing libraries like Shery.js and GSAP to create smooth and dynamic visual effects. The landing page is designed to be visually appealing and interactive, making use of modern web technologies to achieve a polished and engaging presentation.
